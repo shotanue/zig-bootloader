@@ -1,0 +1,4 @@
+*.fd
+
+zig-cache
+efi
